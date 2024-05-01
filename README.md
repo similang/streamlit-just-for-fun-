@@ -6,4 +6,5 @@
 2. Full automation of scripts in Snowflake SQL (stored procedure creation -> task creation)
 - Streamlit App Link: [https://similang-all-about-streamlit-1-action-on-snowflake-sl6ff7.streamlit.app/](https://sftasksautomation.streamlit.app/)https://sftasksautomation.streamlit.app/
 
-
+3. Hackathon 2024 (On-going)
+- Streamlit App Link: https://airselangorapp-6jy3ivm56lbo3femnrmckq.streamlit.app/
